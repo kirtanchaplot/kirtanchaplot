@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kirtan</h1>
-<h3 align="center">Full-Stack Developer | Building Seamless Web Applications</h3>
+<h3 align="center">Full-Stack Developer | Building Seamless Web Applications |Python,SQL</h3>
 
 - 🔭 I’m currently working on **personal projects**
 
