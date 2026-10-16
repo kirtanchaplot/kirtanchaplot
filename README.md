@@ -1,33 +1,17 @@
-<h1 align="center">Hi 👋, I'm Kirtan</h1>
-<h3 align="center">Full-Stack Developer | Building Seamless Web Applications |Python,SQL</h3>
+<h1 align="center">Hi 👋, I'm Kirtan Chaplot</h1>
+<h3 align="center">AI Transformation | Automation | Data & Analytics</h3>
 
-- 🔭 I’m currently working on **personal projects**
+I build practical AI solutions, automate workflows, and turn data into useful business insights.
 
-- 👯 I’m looking to collaborate on **projects| open source**
+- **AI & Data:** Python, SQL, Machine Learning, Generative AI, RAG
+- **Analytics & Engineering:** Power BI, Excel, ETL, AWS Redshift
+- **Full-Stack:** MongoDB, Express.js, React, Node.js
 
-- 📫 How to reach me **KirtanChaplot@gmail.com**
+### Projects
+- **AI Resume Analyzer:** Resume analysis and job discovery.
+- **Natural Language to SQL:** SQL generation with local LLMs.
+- **Credit Risk Modelling:** Machine learning for NPA prediction.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kirtanjainn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kirtanjainn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kirtanchaplot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kirtanchaplot" height="30" width="40" /></a>
-<a href="https://instagram.com/kirtanjainn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kirtanjainn" height="30" width="40" /></a>
-</p>
+Open to collaboration on AI, automation, analytics, and open-source projects.
 
-
-
-
-<!--
-**kirtanchaplot/kirtanchaplot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/kirtanchaplot/) · [Email](mailto:KirtanChaplot@gmail.com)
